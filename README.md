@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome,
+
+* :wave: Hello, I'm Morgan!
+* 🔭 Current first year computer science student at the University of Lancaster
+* 🌱 Currently learning: C, Java, PHP
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OCarrollM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=c,js,java,ps,ae,py,r,vscode&perline=4)](https://skillicons.dev)
+
+<img src="https://camo.githubusercontent.com/f5ee514f30b7c70f248eb0ec9f31e7ac48f808dc23b18d047d36b4b4867d6d72/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f7374617475732f3237363534343634393134383233353737363f73696d706c653d74727565" alt="status" data-canonical-src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true" style="max-width: 100%;">
 
 <!--
 **OCarrollM/OCarrollM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
