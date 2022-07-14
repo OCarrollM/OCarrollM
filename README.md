@@ -1,7 +1,7 @@
 ### Welcome,
 
 * :wave: Hello, I'm Morgan!
-* 🔭 Current first year computer science student at the University of Lancaster
+* 🔭 Current second year computer science student at the University of Lancaster
 * 🌱 Currently learning: C, Java, PHP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OCarrollM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
