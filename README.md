@@ -2,7 +2,7 @@
 
 * :wave: Hello, I'm Morgan!
 * 🔭 Current second year computer science student at the University of Lancaster
-* 🌱 Currently learning: C, Java, PHP
+* 🌱 Currently learning: JS, Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OCarrollM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
