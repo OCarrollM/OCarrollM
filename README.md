@@ -7,8 +7,8 @@ Computer Science Student @ Lancaster University
 I am a second year student at Lancaster University with passion for the subject as a whole along side my hobbies such as space & astronomy. With 5 years of knowledge under my belt starting with Python I wish to expand further and excel in my skills
 
 * 🌍  I'm based in United Kingdom
-* 🚀  I'm currently working on [an E-Portfolio](http://nolinkyet)
-* 🧠  I'm learning HTML, CSS, JS
+* 🚀  I'm currently working on my studies
+* 🧠  I'm learning JS, Erlang
 
 <a href="https://www.github.com/OCarrollM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/OCarrollM?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
