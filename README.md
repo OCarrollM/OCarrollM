@@ -4,8 +4,12 @@
 
 I'm a final-year Master's student passionate about space, and all things tech. With 8 years of coding experience starting with Python. I'm eager to apply my skills in software engineering and contribute to innovative projects.
 
-<a href="https://www.github.com/OCarrollM" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/OCarrollM?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+### 🌐 Portfolio
+
+🚧 **My Portfolio is Coming Soon!** 🚧  
+
+I'm currently working on my personal portfolio to showcase my projects, skills, and experience. Stay tuned for updates!
+
 
 ### 🚀 Projects
  Currently most of my work is private due to University Regulations. Thank you for understanding
