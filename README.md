@@ -14,15 +14,14 @@ I'm currently working on my personal portfolio to showcase my projects, skills, 
 ### 🚀 Projects
  Currently most of my work is private due to University Regulations. Thank you for understanding
  
+- **Thermal Management on CubeSats**  
+  Final Year Dissertation Research paper on simulated algorithms to understand and regulate thermal temperatures on Cube Satellites.
 
 - **Data Mining for complex data sets**  
   Created two programs which pre-process complex datasets and display crucial clustering information
 
 - **Serious Game for Life Skills**  
   Created a game focused on teaching cooking, cleaning, and budgeting, with deep roots in serious games to educate students in a fun way.
-
-- **Chord Implementation with RMI**  
-  Developed a distributed hash table using the Chord protocol for efficient data lookup.
 
 
 ### 🛠️ Skills
