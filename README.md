@@ -34,9 +34,11 @@ I love creating projects with AWS and have a dedicated passion for advancing the
  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
  <p align="center">
-    <a href="https://github.com/OCarrollM/aws-gym-tracker"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=aws-gym-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="aws-gym-tracker">
+    <a href="https://github.com/OCarrollM/aws-gym-tracker"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=aws-gym-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="aws-gym-tracker">
     </a>
-    <a href=https://github.com/OCarrollM/pumpsOS"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=pumpsOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pumpsOS"></a>
+    <a href="https://github.com/OCarrollM/pumpsOS">
+  <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=pumpsOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pumpsOS">
+</a>
  </p>
  
 
