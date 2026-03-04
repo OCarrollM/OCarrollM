@@ -1,6 +1,7 @@
 **Hi, I'm <a href="https://www.morganoc.me">Morgan!</a>** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ==================================
-🎓 Student @ Lancaster University & Backend-API Developer
+🎓 Student & Backend-API Developer @ Lancaster University 
+🚀 Prinicple Software Engineer @ Lancaster University Rocketry Society
 
 Architect of the digital unknown. Building high-impact websites, apps, and products from Plymouth, United Kingdom.
 
