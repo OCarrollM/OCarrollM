@@ -1,7 +1,7 @@
 **Hi, I'm <a href="https://www.morganoc.me">Morgan!</a>** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ==================================
 🎓 Student & Backend-API Developer @ Lancaster University <br>
-🚀 Prinicple Software Engineer @ Lancaster University Rocketry Society
+🚀 Prinicple Software Engineer @ <a href="https://github.com/Lancaster-Rocketry-Society">Lancaster University Rocketry Society</a>
 
 Architect of the digital unknown. Building high-impact websites, apps, and products from Plymouth, United Kingdom.
 
@@ -29,9 +29,7 @@ currentFocus: "Fun ways to track activities in AWS & Automating student services
 funFact: "I get told I create sentances like I am an AI"
 ```
 
-I love creating projects with AWS and have a dedicated passion for advancing the space industry. My work blends my life of experiences by turning ideas into oppertunities.
-
- <h3 align="center">🗂️ Highlight Projects</h3>
+<h3 align="center">🗂️ Highlighted Projects</h3>
  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
@@ -42,6 +40,19 @@ I love creating projects with AWS and have a dedicated passion for advancing the
 <a href="https://github.com/OCarrollM/pumpsOS">
       <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=pumpsOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pumpsOS">
 </a>
+</p>
+
+<h3 align="center"> ⏩ On-Going Projects </h3>
+<p align="center">
+    <a href="https://github.com/OCarrollM/pumpsOS">
+        <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=pumpsOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pumpsOS" />
+    </a>
+    <a href="https://github.com/OCarrollM/morgan.me">
+        <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=morgan.me&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/OCarrollM/fluidTUI">
+        <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OCarrollM&repo=fluidTUI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TUI in C" />
+    </a>
 </p>
  
 
