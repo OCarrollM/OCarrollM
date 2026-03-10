@@ -1,9 +1,36 @@
+
+
 **Hi, I'm <a href="https://www.morganoc.me">Morgan!</a>** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ==================================
 🎓 Student & Backend-API Developer @ Lancaster University <br>
 🚀 Prinicple Software Engineer @ <a href="https://github.com/Lancaster-Rocketry-Society">Lancaster University Rocketry Society</a>
 
 Architect of the digital unknown. Building high-impact websites, apps, and products from Plymouth, United Kingdom.
+
+```
+morgan@aworkinprogrss —————————————————————————————————————
+. OS: ........................ Linux, Windows 10, MacOS
+. Uptime: .................... 24 years, 4 months, 25 days
+. Host: ...................... Lancaster University
+. Kernel: .................... MSc Cyber Security
+. IDE: ....................... VSCode
+.
+. Languages.Programming: ..... Python, C, Assembly, Bash
+. Languages.Markup: .......... HTML, CSS, LaTeX, YAML
+. Languages.Real: ............ English, Italian
+.
+. Hobbies.Software: .......... OS Dev, TUI Dev, A little music prod
+. Hobbies.Hardware: .......... CubeSats, Rockets, Embedded
+.
+- Contact ——————————————————————————————————————————
+. Website: .................. morganoc.me
+. GitHub: ................... <your-handle>
+.
+- GitHub Stats ————————————————————————————————————————
+. Repos: .... XX | Stars: ........... XX
+. Commits: .................. XX | Followers: ....... XX
+. Lines of Code: ............ XX,XXX (XX,XXX++, XX,XXX--)
+```
 
 ```python
 #!/usr/bin/python
