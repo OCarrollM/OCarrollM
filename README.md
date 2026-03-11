@@ -7,30 +7,12 @@
 
 Architect of the digital unknown. Building high-impact websites, apps, and products from Plymouth, United Kingdom.
 
-```
-morgan@aworkinprogrss —————————————————————————————————————
-. OS: ........................ Linux, Windows 10, MacOS
-. Uptime: .................... 24 years, 4 months, 25 days
-. Host: ...................... Lancaster University
-. Kernel: .................... MSc Cyber Security
-. IDE: ....................... VSCode
-.
-. Languages.Programming: ..... Python, C, Assembly, Bash
-. Languages.Markup: .......... HTML, CSS, LaTeX, YAML
-. Languages.Real: ............ English, Italian
-.
-. Hobbies.Software: .......... OS Dev, TUI Dev, A little music prod
-. Hobbies.Hardware: .......... CubeSats, Rockets, Embedded
-.
-- Contact ——————————————————————————————————————————
-. Website: .................. morganoc.me
-. GitHub: ................... <your-handle>
-.
-- GitHub Stats ————————————————————————————————————————
-. Repos: .... XX | Stars: ........... XX
-. Commits: .................. XX | Followers: ....... XX
-. Lines of Code: ............ XX,XXX (XX,XXX++, XX,XXX--)
-```
+<a href="https://OCarrollM/OCarrollM">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"              srcset="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/dark_mode.svg">
+        <img alt="Morgan's GitHub Profile README" src="htts://githubusercontent.com/OCarrollM/OCarrollM/light_mode.svg">
+    </picture>
+</a>
 
 ```python
 #!/usr/bin/python
