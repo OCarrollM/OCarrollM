@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+     font-family="ConsolasFallback,Consolas,monospace" width="985px" height="490px" font-size="14px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0550ae;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<defs>
+  <clipPath id="avatar-clip">
+    <rect x="15" y="15" width="350" height="350" rx="12"/>
+  </clipPath>
+</defs>
+<rect width="985px" height="490px" fill="#ffffff" rx="15"/>
+<image x="15" y="15" width="350" height="350" 
+       clip-path="url(#avatar-clip)"
+       href="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/avatar.png" preserveAspectRatio="xMidYMid slice"/>
+<text x="390" y="30" fill="#1f2328">
+<tspan x="390" y="30">morgan@aworkinprogress</tspan> ————————————————————————————————————————
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Linux, Windows 10, MacOS</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">24 years, 4 months, 25 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Lancaster University</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">MSc Cyber Security</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">VSCode</tspan>
+<tspan x="390" y="150" class="cc">.</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Python, C, Assembly, Bash</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, LaTeX, YAML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">English, Italian</tspan>
+<tspan x="390" y="230" class="cc">.</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> . </tspan><tspan class="value">OS Dev, TUI Dev, Music Production</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">CubeSats, Rockets, Embedded</tspan>
+<tspan x="390" y="290" class="cc">.</tspan>
+<tspan x="390" y="310">- Contact</tspan> ————————————————————————————————————————
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">morganoc.me</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">morganoc</tspan>
+<tspan x="390" y="370" class="cc">.</tspan>
+<tspan x="390" y="390">- GitHub Stats</tspan> ————————————————————————————————————————
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_dots"> .... </tspan><tspan class="value" id="repo_data">XX</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_dots"> ........... </tspan><tspan class="value" id="star_data">XX</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_dots"> ................. </tspan><tspan class="value" id="commit_data">XX</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_dots"> ....... </tspan><tspan class="value" id="follower_data">XX</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_dots"> ......... </tspan><tspan class="value" id="loc_data">XX,XXX</tspan> ( <tspan class="addColor" id="loc_add">XX,XXX</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">XX,XXX</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
