@@ -7,11 +7,11 @@
 
 Architect of the digital unknown. Building high-impact websites, apps, and products from Plymouth, United Kingdom.
 
-<a href="https://OCarrollM/OCarrollM">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"              srcset="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/dark_mode.svg">
-        <img alt="Morgan's GitHub Profile README" src="htts://githubusercontent.com/OCarrollM/OCarrollM/light_mode.svg">
-    </picture>
+<a href="https://github.com/OCarrollM/OCarrollM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/dark_mode.svg">
+    <img alt="Morgan's GitHub Profile README" src="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/light_mode.svg">
+  </picture>
 </a>
 
 ```python
