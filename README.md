@@ -1,42 +1,9 @@
-
-
-**Hi, I'm <a href="https://www.morganoc.me">Morgan!</a>** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-==================================
-🎓 Student & Backend-API Developer @ Lancaster University <br>
-🚀 Prinicple Software Engineer @ <a href="https://github.com/Lancaster-Rocketry-Society">Lancaster University Rocketry Society</a>
-
-Architect of the digital unknown. Building high-impact websites, apps, and products from Plymouth, United Kingdom.
-
 <a href="https://github.com/OCarrollM/OCarrollM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/dark_mode.svg">
     <img alt="Morgan's GitHub Profile README" src="https://raw.githubusercontent.com/OCarrollM/OCarrollM/main/light_mode.svg">
   </picture>
 </a>
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Morgan:
-
-    def __init__(self):
-        self.name = "Morgan O'Carroll"
-        self.role = "Backend-API Developer"
-        self.technologies = {
-         frontEnd: ["HTML", "CSS", "JS", "React", "Bootstrap"],
-         backEnd: ["Node.js", "Flask", "FastAPI", "ASP.NET", "MySQL", "REST"],
-         devOps: ["Docker", "CI/CD", "GitHub Actions", "AWS"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-      
-me = Morgan()
-me.say_hi()
-
-currentFocus: "Fun ways to track activities in AWS & Automating student services @ Lancaster",
-funFact: "I get told I create sentances like I am an AI"
-```
 
 <h3 align="center">🗂️ Highlighted Projects</h3>
  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
