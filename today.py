@@ -20,7 +20,7 @@ import hashlib
 # These are read from GitHub Actions secrets / environment variables
 HEADERS = {'authorization': 'token ' + os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME']  # 'OCarrollM'
-BIRTHDAY = datetime.datetime(2001, 10, 17)  # TODO: Change to your actual birthday
+BIRTHDAY = datetime.datetime(2001, 10, 13)  # TODO: Change to your actual birthday
 
 QUERY_COUNT = {
     'user_getter': 0, 'follower_getter': 0,
