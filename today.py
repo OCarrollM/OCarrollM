@@ -168,7 +168,11 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None):
 
 def stars_counter(data):
     """Sums up star counts across all repos."""
-    return sum(node['node']['stargazers']['totalCount'] for node in data if node['node'] is not None)
+    total_stars = 0
+    for node in data:
+        if node['node'] is not None and 'stargazers' in node['node']:
+            total_stars += node['node']['stargazers']['totalCount']
+    return total_stars
 
 
 # --- Lines of Code (LOC) functions ---
